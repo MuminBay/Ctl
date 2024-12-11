@@ -1,0 +1,9 @@
+{
+  "name": "cetele-takip",
+  "version": "1.0.0",
+  "description": "Çetele Takip Sistemi",
+  "main": "index.js",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+} 
